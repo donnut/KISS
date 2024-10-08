@@ -10,10 +10,10 @@
     <string name="title_ui">Uiterlijk en bediening</string>
     <string name="title_history">Geschiedenisinstellingen</string>
     <string name="title_providers">Zoekinstellingen</string>
-    <string name="menu_settings">Apperaatinstellingen</string>
+    <string name="menu_settings">Apparaatinstellingen</string>
     <string name="ui_empty_1">Begin met zoeken</string>
     <string name="ui_empty_1_sub">Apps, contacten, instellingen, …</string>
-    <string name="ui_empty_2">Laat altijd geschiedenis zien</string>
+    <string name="ui_empty_2">Geschiedenis altijd tonen</string>
     <string name="ui_empty_2_sub">Voor snelle toegang</string>
     <string name="ui_empty_3">Snelle toegang tot uw meest gebruikte apps</string>
     <string name="ui_empty_3_sub">KISS-launcher leert van jouw gebruik</string>
@@ -39,7 +39,7 @@
     <string name="settings_applications">Apps</string>
     <string name="settings_connectivity">Connectiviteit</string>
     <string name="settings_battery">Batterij</string>
-    <string name="menu_wallpaper">Verander achtergrond…</string>
+    <string name="menu_wallpaper">Achtergrond aanpassen…</string>
     <string name="application_not_found">Oeps… kon de app niet starten.</string>
     <string name="history_erased">Geschiedenis gewist.</string>
     <string name="removed_item">Verwijderd</string>
